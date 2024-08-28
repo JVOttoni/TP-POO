@@ -1,5 +1,3 @@
-Bianca Rodrigues Guedes, João Lucas Vilas Bôas Faria, João Victor Ottoni Garcia e Vitor Hugo Palmié Peixoto
-
 TRABALHO PRÁTICO - PARTE 1
 
 1. INTRODUÇÃO
