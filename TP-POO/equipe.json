@@ -1,0 +1,15 @@
+{
+  "equipeA": {
+    "name": "Jason"
+  },
+  "equipeB": {
+    "name": "Derulo"
+  },
+  "controleA": {
+    "comandos": ["esquerda", "esquerda", "rugosidade", "anda", "tempo", "direita", "rugosidade", "anda", "anda", "sonda"]
+  },
+  "controleB": {
+    "comandos": ["esquerda", "direita", "concentracao", "sonda", "rugosidade", "anda", "tempo", "direita", "sonda", "anda"]
+  },
+  "tempo": 30
+}

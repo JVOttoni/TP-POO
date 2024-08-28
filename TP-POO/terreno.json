@@ -1,0 +1,134 @@
+{
+  "comprimento": 3,
+  "largura": 3,
+  "celulas": [
+    {
+      "x": 0,
+      "y": 0,
+      "rugosidade": 0.2,
+      "helio3": 0.0,
+      "erroleitura": 0.099,
+      "erroleitura2": 0.080
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "rugosidade": 0.0,
+      "helio3": 0.22,
+      "erroleitura": 0.099,
+      "erroleitura2": 0.071
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "rugosidade": 0.7,
+      "helio3": 0.37,
+      "erroleitura": 0.071,
+      "erroleitura2": 0.010
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "rugosidade": 0.6,
+      "helio3": 0.13,
+      "erroleitura": 0.044,
+      "erroleitura2": 0.031
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "rugosidade": 0.9,
+      "helio3": 0.12,
+      "erroleitura": 0.089,
+      "erroleitura2": 0.097
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "rugosidade": 0.8,
+      "helio3": 0.0,
+      "erroleitura": 0.078,
+      "erroleitura2": 0.061
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "rugosidade": 0.3,
+      "helio3": 0.44,
+      "erroleitura": 0.053,
+      "erroleitura2": 0.082
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "rugosidade": 0.4,
+      "helio3": 0.59,
+      "erroleitura": 0.01,
+      "erroleitura2": 0.079
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "rugosidade": 0.6,
+      "helio3": 0.44,
+      "erroleitura": 0.040,
+      "erroleitura2": 0.028
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "rugosidade": 0.4,
+      "helio3": 0.53,
+      "erroleitura": 0.071,
+      "erroleitura2": 0.063
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "rugosidade": 0.3,
+      "helio3": 0.96,
+      "erroleitura": 0.031,
+      "erroleitura2": 0.093
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "rugosidade": 0.8,
+      "helio3": 0.0,
+      "erroleitura": 0.042,
+      "erroleitura2": 0.062
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "rugosidade": 0.2,
+      "helio3": 0.0,
+      "erroleitura": 0.028,
+      "erroleitura2": 0.098
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "rugosidade": 0.3,
+      "helio3": 0.11,
+      "erroleitura": 0.079,
+      "erroleitura2": 0.009
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "rugosidade": 0.9,
+      "helio3": 0.03,
+      "erroleitura": 0.1,
+      "erroleitura2": 0.003
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "rugosidade": 0.7,
+      "helio3": 0.01,
+      "erroleitura": 0.016,
+      "erroleitura2": 0.046
+    }
+  ]
+}
